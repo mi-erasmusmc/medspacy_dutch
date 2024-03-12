@@ -16,3 +16,7 @@ The Dutch rules for detecting context information about a concept are listed in 
 
 ## Setting up the MedSpaCy Dutch Pipeline
 The pipeline can be set up in a similar manner to the English pipeline, but with links to the language-specific resources. You can find an example notebook [here](https://github.com/mi-erasmusmc/medspacy_dutch/blob/main/Example_medspacy_dutch.ipynb).
+
+
+## Studies using the Dutch MetSpaCy pipeline:
+- [The added value of text from Dutch general practitioner notes in predictive modeling - JAMIA 2023](https://academic.oup.com/jamia/article/30/12/1973/7243430)
